@@ -87,5 +87,6 @@ public class hometask {
                 System.out.println(i);
             }
         }
+
     }
     }
